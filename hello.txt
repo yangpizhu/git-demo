@@ -1,5 +1,5 @@
 hello git yangpizhu public static void main
-hello git yangpizhu
+hello git yangpizhu System.out.println("hello world");
 hello git yangpizhu
 hello git yangpizhu
 hello git yangpizhu
