@@ -16,3 +16,6 @@ hello git yangpizhu
 hello git yangpizhu
 hello git yangpizhu hello java
 hello git yangpizhu hello world
+function () {
+  window.console('我真帅！');
+}
